@@ -1,5 +1,5 @@
-# aircnc
-Projeto resultado da Semana OmniStack #9
+#aircnc
+Project result from OmniStack Week #9
 
-* Foi realizada uma cobertura em vídeo desta semana: https://www.youtube.com/watch?v=_orDi_yBkmY&list=PLMdYygf53DP6yWhsqkG8Rv6ORh3QeWz0l&index=2
-* Este projeto não foi refatorado e foi feito na correria por conta da concorrência com a produção dos vídeos. Sugiro não utilizar como benchmark.
+* A video was produced for this week: https://www.youtube.com/watch?v=_orDi_yBkmY&list=PLMdYygf53DP6yWhsqkG8Rv6ORh3QeWz0l&index=2
+* This project was not refactored and was done in a rush due to competition with video production. I suggest not using it as a benchmark.
